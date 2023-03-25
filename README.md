@@ -1,2 +1,2 @@
 # e_commerse-site
-shopping of kids toys
+shopping of kids and adults toys
